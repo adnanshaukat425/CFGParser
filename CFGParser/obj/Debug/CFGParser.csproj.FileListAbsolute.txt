@@ -1,0 +1,6 @@
+C:\Users\Adnan\Downloads\PA_3\PA_3\CFGParser\obj\Debug\CFGParser.csprojResolveAssemblyReference.cache
+C:\Users\Adnan\Downloads\PA_3\PA_3\CFGParser\obj\Debug\PA_3.exe
+C:\Users\Adnan\Downloads\PA_3\PA_3\CFGParser\obj\Debug\PA_3.pdb
+C:\Users\Adnan\Downloads\PA_3\PA_3\CFGParser\bin\Debug\PA_3.exe.config
+C:\Users\Adnan\Downloads\PA_3\PA_3\CFGParser\bin\Debug\PA_3.exe
+C:\Users\Adnan\Downloads\PA_3\PA_3\CFGParser\bin\Debug\PA_3.pdb

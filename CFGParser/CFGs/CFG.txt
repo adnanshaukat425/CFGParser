@@ -1,0 +1,16 @@
+1S = Bb
+2S = Cd
+3B = aB
+4B = ^
+5C = cC
+6C = ^
+---
+a b c d
+S B C
+S a 1
+S b 1
+S c 2
+B a 3
+B b 4
+C c 5
+C d 6
